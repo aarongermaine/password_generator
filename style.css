@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color:  rgb(86, 88, 248);
 }
 
 .wrapper {
@@ -27,9 +27,14 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: #e7e9eb;
+  
+  
 }
 
+.header-text {
+  font-size: 48px;
+}
 
 .card {
   background-color: hsl(0, 0%, 100%);
@@ -41,6 +46,7 @@ header {
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
+  text-align: center;
 }
 
 .card-header::after {
