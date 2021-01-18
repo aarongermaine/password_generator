@@ -23,6 +23,9 @@ INTRODUCTION
 
 A web application that generates unique passwords for the user based on their specific needs, using mainly Javascript
 
+Image of site: https://github.com/aarongermaine/password_generator/blob/main/images/passwordgenerator.png
+
+
 REQUIREMENTS
 ------------
 
